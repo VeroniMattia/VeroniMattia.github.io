@@ -113,9 +113,9 @@ author:
   location         : "Trondheim, Norway"
   email            : "matthewveroni90@gmail.com"
   links:
-    - label: "Email"
+    - label: "NTNU email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:matthewveroni90@gmail.com"
+      url: "mailto:mattia.veroni@ntnu.no"
     - label: "Website"
       icon: "fas fa-fw fa-link"
        #url: "https://https://veronimattia.github.io/"
