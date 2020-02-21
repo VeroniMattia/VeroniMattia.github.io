@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Mattia Veroni"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/profile.jpg"
   bio              : "PhD student, board member of DION, choir conductor."
   location         : "Trondheim, Norway"
   email            : "matthewveroni90@gmail.com"
