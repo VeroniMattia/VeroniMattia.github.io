@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Mattia Veroni"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "PhD student, board member of DION, choir conductor."
   location         : "Trondheim, Norway"
   email            :
   links:
@@ -118,7 +118,7 @@ author:
        #url: "matthewveroni90@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-       url: "https://https://veronimattia.github.io/"
+       #url: "https://https://veronimattia.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
