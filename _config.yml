@@ -111,11 +111,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD student, board member of DION, choir conductor."
   location         : "Trondheim, Norway"
-  email            :
+  email            : "matthewveroni90@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       #url: "matthewveroni90@gmail.com"
+      url: "mailto:matthewveroni90@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
        #url: "https://https://veronimattia.github.io/"
