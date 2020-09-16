@@ -111,7 +111,8 @@ author:
   avatar           : "/images/profile.jpg"
   bio              : "PhD student in cryptography, enthusiastic teacher, reliable co-worker."
   location         : "Trondheim, Norway"
-  email            : "matthewveroni90@gmail.com"
+  email            : "mailto:matthewveroni90@gmail.com"
+  linkedin         : "https://www.linkedin.com/in/mattia-veroni-766a0a160/"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
