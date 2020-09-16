@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Mattia Veroni"
 title_separator          : "-"
-subtitle                 : "To post-quantum cryptography and beyond"
+subtitle                 : "Cryptographer and beyond"
 name                     : "Mattia Veroni"
 description              : "Mathematician, cryptographer, cinephile, musician"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -109,13 +109,10 @@ analytics:
 author:
   name             : "Mattia Veroni"
   avatar           : "/images/profile.jpg"
-  bio              : "PhD student, board member of DION, choir conductor."
+  bio              : "PhD student in cryptography, enthusiastic teacher, reliable co-worker."
   location         : "Trondheim, Norway"
   email            : "matthewveroni90@gmail.com"
   links:
-    - label: "NTNU email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:mattia.veroni@ntnu.no"
     - label: "Website"
       icon: "fas fa-fw fa-link"
        #url: "https://https://veronimattia.github.io/"
@@ -131,6 +128,9 @@ author:
     - label: "NTNU"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.ntnu.no/ansatte/mattia.veroni"
+    - label: "NTNU email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:mattia.veroni@ntnu.no"
 
 # Site Footer
 footer:
