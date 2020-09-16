@@ -131,7 +131,7 @@ author:
     - label: "NTNU email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:mattia.veroni@ntnu.no"
-     label: "personal email"
+    - label: "personal email"
 
 # Site Footer
 footer:
