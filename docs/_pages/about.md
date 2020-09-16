@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about
 header:
-	image: #location of image
+	image: "/image/header-midnightBlue.jpg"
 ---
 
 Something about me
