@@ -123,9 +123,6 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:mattia.veroni@ntnu.no"
 
-# Site Header
-head:
-  image:  "/images/watercover.jpg"
 
 # Site Footer
 footer:
