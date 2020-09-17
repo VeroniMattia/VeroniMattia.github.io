@@ -124,7 +124,7 @@ author:
       url: "mailto:mattia.veroni@ntnu.no"
 
 # Site Header
-header:
+head:
   image:  /images/watercover.jpg
 
 # Site Footer
