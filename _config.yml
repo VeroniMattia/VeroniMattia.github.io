@@ -125,7 +125,7 @@ author:
 
 # Site Header
 head:
-  image:  /images/watercover.jpg
+  image:  "/images/watercover.jpg"
 
 # Site Footer
 footer:
