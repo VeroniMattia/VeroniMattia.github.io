@@ -113,8 +113,8 @@ author:
   location         : "Trondheim, Norway"
   email            : "matthewveroni90@gmail.com"
   linkedin         : "mattia-veroni-766a0a160/"
-  facebook         : "Colosso90"  
-  twitter          : "VeroniMattia"    
+  facebook         : "Colosso90"
+  twitter          : "VeroniMattia"
   links:
     - label: "NTNU profile"
       icon: "fab fa-fw fa-instagram"
@@ -122,6 +122,10 @@ author:
     - label: "NTNU email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:mattia.veroni@ntnu.no"
+
+# Site Header
+header:
+  image:  /images/watercover.jpg
 
 # Site Footer
 footer:
